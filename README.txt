@@ -1,0 +1,1 @@
+Neu: Beim Prüfen einer Nomen-Vokabel wird der gespeicherte Artikel angezeigt. Bei anderen Wortarten erscheint kein Artikel. Alle 5 Dateien in GitHub ersetzen.
